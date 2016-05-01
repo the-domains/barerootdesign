@@ -1,0 +1,28 @@
+name: barerootdesign
+favicon: null
+layout_spectrum: 0.18912797281518579
+typography_spectrum: 0.8453321431297809
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.20146746933460236
+  lightness: 0.5886757676489651
+  saturation: 0.7543048292864114
+  rhythmicContrast: 0.244648817460984
+purpose: []
